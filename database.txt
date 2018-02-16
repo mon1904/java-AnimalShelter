@@ -1,0 +1,4 @@
+1,Spot,4,true,big,Dog,German Shepard,Brown/black);
+2,Sammy,8,true,big,Dog,Samoyed,White);
+3,Jack,7,false,small,Cat,Jack Russell,Brown/White);
+4,Bart,1,false,small,Dog,Jack Russell,Brown/White);

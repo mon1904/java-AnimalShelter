@@ -1,0 +1,36 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.label {
+    -fx-font-size: 12px;
+    -fx-font-weight: bold;
+   
+    -fx-effect: dropshadow( gaussian , rgba(255,255,255,0.5) , 0,0,0,1 );
+}
+
+
+.button:hover {
+    -fx-background-color: linear-gradient( #404040, #9933ff);
+}
+
+
+.button {   
+    -fx-border-color: #e2e2e2;
+    -fx-border-width: 2;
+    -fx-background-radius: 0;
+    -fx-background-color:#404040;
+    -fx-font-family: "Segoe UI", Helvetica, Arial, sans-serif;
+    -fx-font-size: 11pt;
+    -fx-text-fill: #d8d8d8;
+    -fx-background-insets: 0 0 0 0, 0, 1, 2;
+}
+.root{
+	-fx-background-image: url("http://www.petadoptionfund.org/images/home-banner1.jpg");
+	-fx-background-repeat: no-repeat;
+    -fx-background-position: bottom;
+	-fx-background-color: #8585ad;	
+
+}
+
+.text-area .content{
+  -fx-background-color: #e0e0eb;
+}
+
